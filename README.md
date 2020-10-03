@@ -2,7 +2,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chauhannaman98&repo=DS-and-Algo&theme=react)](https://github.com/chauhannaman98/DS-and-Algo)
 
-![GitHub issues](https://img.shields.io/github/issues/chauhannaman98/DS-and-Algo) ![GitHub pull requests](https://img.shields.io/github/issues-pr/chauhannaman98/DS-and-Algo) ![GitHub forks](https://img.shields.io/github/forks/chauhannaman98/DS-and-Algo) ![GitHub Repo stars](https://img.shields.io/github/stars/chauhannaman98/DS-and-Algo)
+![GitHub issues](https://img.shields.io/github/issues/chauhannaman98/DS-and-Algo) ![GitHub pull requests](https://img.shields.io/github/issues-pr/chauhannaman98/DS-and-Algo) ![GitHub forks](https://img.shields.io/github/forks/chauhannaman98/DS-and-Algo) ![GitHub Repo stars](https://img.shields.io/github/stars/chauhannaman98/DS-and-Algo) [![time tracker](https://wakatime.com/badge/github/chauhannaman98/DS-and-Algo.svg)](https://wakatime.com/badge/github/chauhannaman98/DS-and-Algo)
 
 ## How to contribute for Hacktoberfest
 1. :fork_and_knife: Fork the repository
